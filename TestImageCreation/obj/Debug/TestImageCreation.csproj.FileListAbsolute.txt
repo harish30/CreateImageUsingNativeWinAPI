@@ -1,0 +1,14 @@
+C:\Users\hknaksha\source\repos\TestImageCreation\TestImageCreation\bin\Debug\TestImageCreation.exe.config
+C:\Users\hknaksha\source\repos\TestImageCreation\TestImageCreation\bin\Debug\TestImageCreation.exe
+C:\Users\hknaksha\source\repos\TestImageCreation\TestImageCreation\bin\Debug\TestImageCreation.pdb
+C:\Users\hknaksha\source\repos\TestImageCreation\TestImageCreation\obj\Debug\TestImageCreation.Form1.resources
+C:\Users\hknaksha\source\repos\TestImageCreation\TestImageCreation\obj\Debug\TestImageCreation.Properties.Resources.resources
+C:\Users\hknaksha\source\repos\TestImageCreation\TestImageCreation\obj\Debug\TestImageCreation.csproj.GenerateResource.cache
+C:\Users\hknaksha\source\repos\TestImageCreation\TestImageCreation\obj\Debug\TestImageCreation.csproj.CoreCompileInputs.cache
+C:\Users\hknaksha\source\repos\TestImageCreation\TestImageCreation\obj\Debug\TestImageCreation.exe
+C:\Users\hknaksha\source\repos\TestImageCreation\TestImageCreation\obj\Debug\TestImageCreation.pdb
+C:\Users\hknaksha\source\repos\TestImageCreation\TestImageCreation\obj\Debug\Interop.igrDirUtils412.dll
+C:\Users\hknaksha\source\repos\TestImageCreation\TestImageCreation\obj\Debug\Interop.igrDirWalk412.dll
+C:\Users\hknaksha\source\repos\TestImageCreation\TestImageCreation\obj\Debug\Interop.IgrTOOLS412.dll
+C:\Users\hknaksha\source\repos\TestImageCreation\TestImageCreation\obj\Debug\Interop.RAD2D.dll
+C:\Users\hknaksha\source\repos\TestImageCreation\TestImageCreation\obj\Debug\TestImageCreation.csproj.ResolveComReference.cache
